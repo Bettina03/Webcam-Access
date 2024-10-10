@@ -1,0 +1,1 @@
+The project aimed to develop a Graphical User Interface (GUI) application for user authentication and webcam access control. The system would allow users to enter their password, and upon successful validation, it would enable or disable the webcam device.
